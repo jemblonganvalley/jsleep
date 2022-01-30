@@ -1,0 +1,11 @@
+{
+  "name": "jvalley-sleep",
+  "version": "1.0.0",
+  "description": "python like sleep function in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fadliselaz",
+  "license": "MIT"
+}
